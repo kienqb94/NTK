@@ -17,10 +17,8 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: 
 image: /thumbnail-jumbo.png
-twitter:
-  username: 
+Facebook: kien.qb
 
 plugins:
   - jekyll-target-blank
