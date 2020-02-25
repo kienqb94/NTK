@@ -7,11 +7,12 @@
 #
 layout: home
 ---
+# BYPASS GOOGLE ACCOUNT 2020
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+[• Android_8-9_GAM.apk](https://github.com/kienqb94/kienqb94/blob/master/ByPass%20GG/Android_8-9_GAM.apk?raw=true)
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+[• AFRP_Android_7.apk](https://github.com/kienqb94/kienqb94/blob/master/ByPass%20GG/FRP_Android_7.apk?raw=true)
 
-Have a look at the Github page for more information.
+[• FRP_Android_7.apk](https://github.com/kienqb94/kienqb94/blob/master/ByPass%20GG/FRP_Android_7.apk?raw=true)
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+[• Apex_Launcher.apk](https://github.com/kienqb94/kienqb94/blob/master/ByPass%20GG/Apex_Launcher.apk?raw=true)
