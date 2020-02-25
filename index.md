@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-# BYPASS GOOGLE ACCOUNT 2020
+# BYPASS GOOGLE 
 
 **•**[Android_8-9_GAM.apk](https://github.com/kienqb94/kienqb94/blob/master/ByPass%20GG/Android_8-9_GAM.apk?raw=true)
 
